@@ -1,0 +1,7 @@
+streamlit
+openai
+google-generativeai
+langchain
+faiss-cpu
+python-dotenv
+numpy
